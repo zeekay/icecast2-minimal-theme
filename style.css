@@ -7,7 +7,7 @@ body {
     font-family: 'Noto Sans', sans-serif;
     line-height: 1em;
 	margin-left: 50px;
-	margin-right: 25px;
+	margin-right: 50px;
 	background-color: #333;
 }
 
@@ -98,7 +98,6 @@ td {
 }
 
 .roundcont {
-	width: 90%;
 	background-color: #656565;
 	color: #fff;
 }
